@@ -1,10 +1,10 @@
-package com.virtuaapp.virtuaapp;
+package com.bp.apirestbrprev;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VirtuaappApplicationTests {
+class ApirestBrprevApplicationTests {
 
 	@Test
 	void contextLoads() {
